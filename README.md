@@ -120,13 +120,16 @@ pip install flet==0.86.5
 
 ### Запуск
 
-Из папки проекта выполнить:
+Для запуска приложения выполнить:
 
 ```powershell
-.\.venv\Scripts\python.exe main.py
+C:\CouncilApp\.venv\Scripts\python.exe main.py
 ```
 
 После выполнения команды откроется графическое приложение CouncilApp.
+
+> Если проект находится не в `C:\CouncilApp`, замените путь `C:\CouncilApp` на путь к папке проекта.
+
 
 ## Текущий статус
 
